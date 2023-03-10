@@ -8,7 +8,7 @@ from
       student
     order by
       marks
-  )
+  ) as s
 order by
   id
 limit
